@@ -7,8 +7,8 @@ This project is a JS FullCalendar application with a server for performing CRUD 
 To get started you need to clone the repository and navigate into the folder.
 
 ```sh
-git clone https://github.com/ritza-co/fullcalendar-starter fullcalendar
-cd fullcalendar
+git clone https://github.com/bryntum/fullcalendar-starter
+cd fullcalendar-starter
 ```
 
 ## Installing
